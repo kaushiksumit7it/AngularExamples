@@ -1,0 +1,41 @@
+.header
+{
+  width:80%;
+  height:200px;
+
+  margin-left: 5%;
+
+}
+.header aside
+{
+  width:25%;
+  float:left;
+}
+
+.header .logo
+{
+  width:100%;
+  padding:20%;
+}
+.header .banner
+{
+  width:32%;
+  margin-right:1%;
+  float:left;
+  padding:2%;
+  height:150px;
+
+}
+#topmenu
+{
+  margin-top: 1%;
+ margin-left: 30%;
+
+}
+
+#outlet
+{
+  margin-top: 5%;
+
+
+}
